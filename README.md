@@ -1,3 +1,5 @@
+检测Android模拟器、虚拟环境等工具
+
 # EasyProtector  [ ![Download](https://api.bintray.com/packages/lamster2018/maven/easy-protector-release/images/download.svg) ](https://bintray.com/lamster2018/maven/easy-protector-release/_latestVersion)
 
 EasyProtector，a simple way to check root/virtual app/emulator/xposed framework/tracer/debugger.
